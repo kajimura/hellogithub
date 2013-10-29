@@ -1,9 +1,9 @@
 MSYS-1.0.12 Build:2011-07-20 17:52
 Exception: STATUS_ACCESS_VIOLATION at eip=4644502E
-eax=00000001 ebx=0022F76C ecx=75CDC2FB edx=002C0174 esi=0022FB8C edi=0022F76C
+eax=00000001 ebx=0022F76C ecx=75CDC2FB edx=00260174 esi=0022FB8C edi=0022F76C
 ebp=31004644 esp=0022F5E4 program=C:\Users\omura\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\ssh-agent.exe
 cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
 Stack trace:
 Frame     Function  Args
-   9156 [main] ssh-agent.exe" 6108 handle_exceptions: Exception: STATUS_ACCESS_VIOLATION
-  10112 [main] ssh-agent.exe" 6108 handle_exceptions: Error while dumping state (probably corrupted stack)
+   5689 [main] ssh-agent.exe" 10652 handle_exceptions: Exception: STATUS_ACCESS_VIOLATION
+   6337 [main] ssh-agent.exe" 10652 handle_exceptions: Error while dumping state (probably corrupted stack)
