@@ -1,6 +1,12 @@
 taro
 jiro
+ee
+bb
+cc
+eee
 saburo
+bbb
+ccc
 siro
 goro
 a
